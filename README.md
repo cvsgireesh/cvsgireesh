@@ -1,72 +1,73 @@
-# 👋 Hi, I'm Venkata Sai Gireesh
-
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Scientific+Python+Packaging+Engineer;AI+Frameworks+DevOps;Conda+%26+PyPI+Packages;CI%2FCD+Infrastructure&font=Fira%20Code&size=22&weight=600&color=58A6FF&center=true&width=480&height=45&duration=3000&pause=1000)
-
+  <img src="./assets/manifest-header.svg" width="100%" alt="Venkata Sai Gireesh — systems-minded engineer working across scientific Python, developer infrastructure, and local-first AI" />
 </div>
+
+<br />
+
+I build the connective tissue between **scientific software, reliable delivery, and practical AI systems**—from Python packages and release pipelines to local-first agent workflows.
+
+My bias is toward tools that are reproducible, inspectable, and useful outside the demo.
+
+<p>
+  <a href="https://github.com/Dennis-Gireesh?tab=repositories"><img alt="Explore my repositories" src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-3156A3?style=for-the-badge&labelColor=16213E"></a>
+  <a href="https://github.com/Dennis-Gireesh?tab=followers"><img alt="Follow on GitHub" src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-2A7F7A?style=for-the-badge&logo=github&logoColor=white&labelColor=16213E"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### Current working set
 
-<div align="center">
+| Focus | What that means in practice |
+| :--- | :--- |
+| **Scientific Python** | Packaging, PyPI and Conda distribution, Array API work, and accelerated compute workflows |
+| **Delivery systems** | Cross-platform builds, automated testing, release pipelines, and dependable developer tooling |
+| **Local-first AI** | Private-by-default inference, human-supervised agents, and deliberate local/cloud routing |
+| **Systems engineering** | Linux internals, distributed systems, and the layers beneath high-level applications |
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/)
-[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-FFD43B?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
+### Selected systems
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Dennis-Gireesh/llm-way-split">llm-way-split</a></h4>
+      <p>Local-first mobile bill splitting with OCR and deterministic reconciliation.</p>
+      <code>Python</code> · <code>FastAPI</code> · <code>Ollama</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Dennis-Gireesh/hermes-hybrid-agent-router">hermes-hybrid-agent-router</a></h4>
+      <p>Routes work between local models and authority models for cost, privacy, and verification.</p>
+      <code>Shell</code> · <code>llama.cpp</code> · <code>Codex</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Dennis-Gireesh/buzz-agent-team-starter-pack">buzz-agent-team-starter-pack</a></h4>
+      <p>Validated agent personas, team templates, and safe deployment helpers with human oversight.</p>
+      <code>Python</code> · <code>Agents</code> · <code>Workflows</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/Dennis-Gireesh/Linux-Device-Drivers">Linux-Device-Drivers</a></h4>
+      <p>Advanced systems programming exercises focused on Linux device-driver fundamentals.</p>
+      <code>C</code> · <code>Linux</code> · <code>Systems</code>
+    </td>
+  </tr>
+</table>
 
----
+### Tools I reach for
 
-## 💻 Featured Projects
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-16213E?style=flat-square&logo=python&logoColor=E8B04A">
+  <img alt="C" src="https://img.shields.io/badge/C-16213E?style=flat-square&logo=c&logoColor=81A9E6">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-16213E?style=flat-square&logo=linux&logoColor=F1C84B">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-16213E?style=flat-square&logo=githubactions&logoColor=81A9E6">
+  <img alt="Conda" src="https://img.shields.io/badge/Conda-16213E?style=flat-square&logo=anaconda&logoColor=68B984">
+  <img alt="PyPI" src="https://img.shields.io/badge/PyPI-16213E?style=flat-square&logo=pypi&logoColor=81A9E6">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-16213E?style=flat-square&logo=docker&logoColor=81A9E6">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-16213E?style=flat-square&logo=jupyter&logoColor=E8B04A">
+</p>
 
-<div align="center">
+```text
+design constraint  →  explicit trade-off  →  repeatable build  →  observable result
+```
 
-| Project | Language | Description |
-|:-------:|:--------:|:-----------:|
-| [dpctl](https://github.com/Dennis-Gireesh/dpctl) | Python/C++ | Python SYCL bindings & Array API library — scientific computing at scale |
-| [hermes-hybrid-agent-router](https://github.com/Dennis-Gireesh/hermes-hybrid-agent-router) | Python | AI agent router: routes tasks between local Ollama/llama.cpp and OpenAI Codex for cost-efficient LLM inference |
-| [CNN Digit Classification](https://github.com/Dennis-Gireesh/Classification-of-Handwritten-Digits-using-CNN) | Jupyter | Deep learning pipeline — CNN classification of handwritten digits |
-| [Fault-tolerant Distributed File System](https://github.com/Dennis-Gireesh/Fault-tolerant-Networked-and-Distributed-File-system) | Python | Distributed systems — fault-tolerant networked file system design |
-| [Binary Code Compression](https://github.com/Dennis-Gireesh/Binary_Code_Compression_and_Decompression) | Python | Binary encoding/decoding algorithms |
-
-</div>
-
----
-
-## 📦 Packaging & Ecosystem
-
-<div align="center">
-
-- **Scientific Python** — NumPy, SciPy, SYCL/Array API, GPU-accelerated arrays
-- **Package Distribution** — PyPI, Conda, wheel building, cross-platform packaging
-- **CI/CD** — GitHub Actions workflows, automated testing & release pipelines
-- **AI/ML Infra** — Model serving, inference routing, hybrid local/cloud LLM deployment
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Dennis-Gireesh&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=en&line_height=25&card_width=300)
-
-</div>
-
----
-
-<div align="center">
-
-**📍 Location:** United States of America
-**📅 Joined:** November 2018
-**📦 Repos:** 10
-
-*Built with ❤️ and live GitHub widgets*
-
-</div>
+<sub>Based in the United States · Building in public since 2018</sub>
