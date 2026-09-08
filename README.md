@@ -28,11 +28,11 @@
 
 | Project | Language | Description |
 |:-------:|:--------:|:-----------:|
-| [dpctl](https://github.com/Dennis-Gireesh/dpctl) | Python/C++ | Python SYCL bindings & Array API library — scientific computing at scale |
-| [hermes-hybrid-agent-router](https://github.com/Dennis-Gireesh/hermes-hybrid-agent-router) | Python | AI agent router: routes tasks between local Ollama/llama.cpp and OpenAI Codex for cost-efficient LLM inference |
-| [CNN Digit Classification](https://github.com/Dennis-Gireesh/Classification-of-Handwritten-Digits-using-CNN) | Jupyter | Deep learning pipeline — CNN classification of handwritten digits |
-| [Fault-tolerant Distributed File System](https://github.com/Dennis-Gireesh/Fault-tolerant-Networked-and-Distributed-File-system) | Python | Distributed systems — fault-tolerant networked file system design |
-| [Binary Code Compression](https://github.com/Dennis-Gireesh/Binary_Code_Compression_and_Decompression) | Python | Binary encoding/decoding algorithms |
+| [dpctl](https://github.com/cvsgireesh/dpctl) | Python/C++ | Python SYCL bindings & Array API library — scientific computing at scale |
+| [hermes-hybrid-agent-router](https://github.com/cvsgireesh/hermes-hybrid-agent-router) | Python | AI agent router: routes tasks between local Ollama/llama.cpp and OpenAI Codex for cost-efficient LLM inference |
+| [CNN Digit Classification](https://github.com/cvsgireesh/Classification-of-Handwritten-Digits-using-CNN) | Jupyter | Deep learning pipeline — CNN classification of handwritten digits |
+| [Fault-tolerant Distributed File System](https://github.com/cvsgireesh/Fault-tolerant-Networked-and-Distributed-File-system) | Python | Distributed systems — fault-tolerant networked file system design |
+| [Binary Code Compression](https://github.com/cvsgireesh/Binary_Code_Compression_and_Decompression) | Python | Binary encoding/decoding algorithms |
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=Dennis-Gireesh&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=en&line_height=25&card_width=300)
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=cvsgireesh&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=en&line_height=25&card_width=300)
 
 </div>
 
